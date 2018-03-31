@@ -1,1 +1,1 @@
-echo worker: python versaREE.py
+worker: python versaREE.py
