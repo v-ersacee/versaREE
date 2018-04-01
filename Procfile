@@ -1,1 +1,1 @@
-worker: python versaREE.py
+worker: python clicker.py
